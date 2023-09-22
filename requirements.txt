@@ -1,0 +1,7 @@
+pytelegrambotapi
+requests
+bs4
+selenium
+pyshorteners
+webdriver_manager
+python-dotenv
